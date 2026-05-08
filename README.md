@@ -1,6 +1,6 @@
 # JavaScript Learning Journey
 
-This repository contains the examples and exercises I create while learning JavaScript
+This repository contains the examples and exercises I create while learning JavaScript.
 
 ## Purpose
 - Learn the fundamentals of JavaScript  
