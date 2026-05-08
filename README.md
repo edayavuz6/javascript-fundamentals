@@ -21,6 +21,6 @@ This repository contains the examples and exercises I create while learning Java
 - CSS
 
 ## Note
-This repository is for learning purposes and will be updated over time.
+This repository is for learning purposes and will be updated over time
 # javascript-learning
 
